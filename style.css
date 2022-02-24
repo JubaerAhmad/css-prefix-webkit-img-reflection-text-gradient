@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    text-align: center;
+    margin-top: 30px;
+}
+
+body img {
+    width: 200px;
+    margin-top: 30px;
+    -webkit-box-reflect: below .2rem linear-gradient(transparent 70%, black);
+    -ms-box-reflect: below .2rem linear-gradient(transparent 70%, black);
+    
+    
+}
+
+h1 {
+    font-size: 5rem;
+    background: linear-gradient(blue, green);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+   
+}
